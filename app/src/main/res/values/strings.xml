@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Texts</string>
+    <string-array name="greetings_array" >
+        <item>Chinese-你好</item>
+        <item>Arabic-مرحبا</item>
+        <item>Spanish-Hola</item>
+        <item>French-Bonjour</item>
+        <item>Japanese-こんにちは</item>
+        <item>Russian-Здравствуй</item>
+        <item>Vietnamese-Chào</item>
+        <item>German-Hallo</item>
+        <item>Hindi-नमस्ते</item>
+    </string-array>
+
+</resources>

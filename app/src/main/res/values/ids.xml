@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="greeting" type="id" />
+    <item name="clicker" type="id" />
+    <item name="greetingsbutton" type="id" />
+</resources>
